@@ -44,6 +44,7 @@ Type your messages in the terminal.
 
 Type exit to stop the chatbot.
 
+---
 
 License 📄
 This project is licensed under the MIT License. See the LICENSE file for details.
@@ -51,7 +52,8 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Contributing 🤝
 Contributions are welcome! If you'd like to improve this project, feel free to open an issue or submit a pull request.
 
+---
+
 Acknowledgments 🙏
 OpenAI for providing the GPT model.
-
 Langchain for simplifying the integration process.
