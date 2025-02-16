@@ -23,26 +23,6 @@ A simple and interactive chatbot built using **Langchain** and **OpenAI API**. T
    ```bash/Terminal
    git clone https://github.com/Harsha2318/LangGraph-powered-chatbot.git
 
-2.Install Dependencies:
-  pip install -r requirements.txt
-
-3.Set Up Environment Variables:
-
-Create a .env file in the root directory.
-
-Add your OpenAI API key to the .env file: 
-
-  OPENAI_API_KEY=your_openai_api_key_here
-
-
-4.Run the Chatbot:
-  python chatbot.py
-
-5.Interact with the Chatbot:
-
-Type your messages in the terminal.
-
-Type exit to stop the chatbot.
 
 ---
 
