@@ -22,7 +22,13 @@ A simple and interactive chatbot built using **Langchain** and **OpenAI API**. T
 1. **Clone the Repository**:
    ```bash/Terminal
    git clone https://github.com/Harsha2318/LangGraph-powered-chatbot.git
+2️.env (Environment Variables)
+Create a file named .env and add your OpenAI API key:
 
+ini
+Copy
+Edit
+OPENAI_API_KEY=your_openai_api_key_here
 
 ---
 
